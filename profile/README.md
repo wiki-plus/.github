@@ -59,7 +59,7 @@ Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more informat
 
 Have questions, suggestions, or just want to say hi? You can reach out to us via:
 
-- Email: info@wiki-plus.com
+- Email: info@wiki-plus.ir
 - Twitter: [@WikiPlusDev](https://twitter.com/WikiPlusDev)
 - Support Forum: [Wiki Plus Support](https://wiki-plus.ir/Contact-us/)
 
